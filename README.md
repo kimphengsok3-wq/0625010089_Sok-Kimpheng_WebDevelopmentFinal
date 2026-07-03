@@ -2,7 +2,7 @@
 
 A full-stack personal portfolio website built for the Web Development Final Assessment at CamTech University.
 
-**Live site:** _(add your deployed URL here after Phase 8)_
+**Live site:** https://main.d1odq7jokiqw5.amplifyapp.com
 **Author:** Kimpheng Sok — Software Engineering, Year II, CamTech University
 
 ## Overview
